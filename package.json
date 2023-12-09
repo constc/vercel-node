@@ -2,6 +2,7 @@
   "repository": "https://github.com/vercel/examples.git",
   "license": "MIT",
   "private": true,
+  "type": "module",
   "dependencies": {
     "@vercel/node": "2.9.6",
     "@vercel/postgres": "0.5.1"
